@@ -1,0 +1,29 @@
+header { 
+   border:4px black double;
+   font-family: "Lucida Console";
+ }
+body {
+  background-color: pink;
+}
+.container {
+  background-color: pink;
+}
+
+.content {
+  border:4px black double;
+  font-family: "Courier New";
+
+}
+
+footer {
+  background-color: pink; 
+  border: 4px black double;
+  font-family: "Courier New";
+
+}
+.aside {
+	border:4px black double;
+	width: 120px;
+	height:175px;
+  float: 20px left;
+}
