@@ -1,6 +1,7 @@
 header { 
-   border:4px black double;
+   border:5px black double;
    font-family: "Lucida Console";
+   text-align: center;
  }
 body {
   background-color: pink;
@@ -10,19 +11,20 @@ body {
 }
 
 .content {
-  border:4px black double;
+  border:5px black double;
   font-family: "Courier New";
 
 }
 
 footer {
   background-color: pink; 
-  border: 4px black double;
+  border: 5px black double;
   font-family: "Courier New";
+  text-align: center;
 
 }
 .aside {
-	border:4px black double;
+	border:5px black double;
 	width: 120px;
 	height:175px;
   float: 20px left;
