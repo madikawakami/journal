@@ -2,7 +2,8 @@ header {
    border:5px black double;
    font-family: "Lucida Console";
    text-align: center;
- }
+
+}
 body {
   background-color: pink;
 }
