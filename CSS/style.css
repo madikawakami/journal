@@ -3,9 +3,11 @@ header {
    font-family: "Lucida Console";
    text-align: center;
 }
+
 body {
   background-color: pink;
 }
+
 .container {
   background-color: pink;
 }
@@ -16,16 +18,18 @@ body {
 
 }
 
+.aside {
+  border:5px black double;
+  width: 120px;
+  height:175px;
+  float: 20px left;
+  background-color: white;
+}
+
 footer {
   background-color: pink; 
   border: 5px black double;
   font-family: "Courier New";
   text-align: center;
 
-}
-.aside {
-	border:5px black double;
-	width: 120px;
-	height:175px;
-  float: 20px left;
 }
