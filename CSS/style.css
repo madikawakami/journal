@@ -1,7 +1,11 @@
 header { 
    border:5px black double;
    font-family: "Lucida Console";
+   font-size: 14px;
    text-align: center;
+   width: 600px;
+   height: 500px;
+   float:right;
 }
 
 body {
@@ -24,6 +28,8 @@ body {
   height:175px;
   float: 20px left;
   background-color: white;
+  padding: 8px;
+  margin-bottom: 10px;
 }
 
 footer {
@@ -33,3 +39,4 @@ footer {
   text-align: center;
 
 }
+
